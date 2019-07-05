@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://cfv1984.github.io/publii-theme-sandbox/javascript-posta/",
-            "url": "https://cfv1984.github.io/publii-theme-sandbox/javascript-posta/",
+            "id": "https://cfv1984.github.io/publii-theme-sandbox/javascript-posta.html",
+            "url": "https://cfv1984.github.io/publii-theme-sandbox/javascript-posta.html",
             "title": "Javascript POSTA",
             "summary": {
   "0": "Javascript POSTA es un intento de enseñar, sobre Javascript, a programar apropiadamente. Intenta aplicar nociones extraídas de Domain Driven Development, Clean Code, Javascript Allongé, ATDD&hellip;",
@@ -43,7 +43,7 @@
         "posts": [
           {
             "title": "Javascript POSTA",
-            "url": "https://cfv1984.github.io/publii-theme-sandbox/javascript-posta/",
+            "url": "https://cfv1984.github.io/publii-theme-sandbox/javascript-posta.html",
             "author": {
               "id": 1,
               "name": "Carlos Vergara",
@@ -95,7 +95,7 @@
           "posts": [
             {
               "title": "Javascript POSTA",
-              "url": "https://cfv1984.github.io/publii-theme-sandbox/javascript-posta/",
+              "url": "https://cfv1984.github.io/publii-theme-sandbox/javascript-posta.html",
               "author": {
                 "id": 1,
                 "name": "Carlos Vergara",
@@ -160,7 +160,7 @@
         "posts": [
           {
             "title": "Javascript POSTA",
-            "url": "https://cfv1984.github.io/publii-theme-sandbox/javascript-posta/",
+            "url": "https://cfv1984.github.io/publii-theme-sandbox/javascript-posta.html",
             "author": {
               "id": 1,
               "name": "Carlos Vergara",
@@ -212,7 +212,7 @@
           "posts": [
             {
               "title": "Javascript POSTA",
-              "url": "https://cfv1984.github.io/publii-theme-sandbox/javascript-posta/",
+              "url": "https://cfv1984.github.io/publii-theme-sandbox/javascript-posta.html",
               "author": {
                 "id": 1,
                 "name": "Carlos Vergara",

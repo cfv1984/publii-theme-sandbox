@@ -1,0 +1,259 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Javascript POSTA",
+    "description": "",
+    "home_page_url": "https://cfv1984.github.io/publii-theme-sandbox",
+    "feed_url": "https://cfv1984.github.io/publii-theme-sandbox/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Carlos Vergara"
+    },
+    "items": [
+        {
+            "id": "https://cfv1984.github.io/publii-theme-sandbox/javascript-posta/",
+            "url": "https://cfv1984.github.io/publii-theme-sandbox/javascript-posta/",
+            "title": "Javascript POSTA",
+            "summary": {
+  "0": "Javascript POSTA es un intento de enseñar, sobre Javascript, a programar apropiadamente. Intenta aplicar nociones extraídas de Domain Driven Development, Clean Code, Javascript Allongé, ATDD&hellip;",
+  "1": {
+    "name": "jsonify",
+    "hash": {},
+    "data": {
+      "root": {
+        "siteName": "Javascript POSTA",
+        "siteAuthor": {
+          "id": 1,
+          "name": "Carlos Vergara",
+          "username": "carlos-vergara",
+          "avatar": "",
+          "avatarImage": {
+            "alt": "Carlos Vergara",
+            "height": 240,
+            "url": "",
+            "width": 240
+          },
+          "email": "",
+          "description": "",
+          "postsNumber": 1,
+          "url": "https://cfv1984.github.io/publii-theme-sandbox/authors/carlos-vergara/",
+          "config": {}
+        },
+        "siteDomain": "https://cfv1984.github.io/publii-theme-sandbox",
+        "siteLogo": "",
+        "posts": [
+          {
+            "title": "Javascript POSTA",
+            "url": "https://cfv1984.github.io/publii-theme-sandbox/javascript-posta/",
+            "author": {
+              "id": 1,
+              "name": "Carlos Vergara",
+              "username": "carlos-vergara",
+              "avatar": "",
+              "avatarImage": {
+                "alt": "Carlos Vergara",
+                "height": 240,
+                "url": "",
+                "width": 240
+              },
+              "email": "",
+              "description": "",
+              "postsNumber": 1,
+              "url": "https://cfv1984.github.io/publii-theme-sandbox/authors/carlos-vergara/",
+              "config": {}
+            },
+            "text": "<p>Javascript POSTA es un intento de enseñar, sobre Javascript, a programar apropiadamente. </p>\n<p>Intenta aplicar nociones extraídas de Domain Driven Development, Clean Code, Javascript Allongé, ATDD y mi propia experiencia en casi dos décadas de desarrollo de aplicaciones. </p>\n<p>Lo escribí en castellano, porque quiero apuntar al hispanohablante por encima de todo, y si bien el inglés es importante para la profesión, no creo que ahí haya una dependencia, o en otras palabras, que aprender inglés sea un requerimiento para producir buen software. </p>",
+            "excerpt": "Javascript POSTA es un intento de enseñar, sobre Javascript, a programar apropiadamente. Intenta aplicar nociones extraídas de Domain Driven Development, Clean Code, Javascript Allongé, ATDD&hellip;",
+            "createdAt": 1562350453763,
+            "modifiedAt": 1562355769419,
+            "categories": [],
+            "thumbnail": false
+          }
+        ]
+      },
+      "_parent": {
+        "root": {
+          "siteName": "Javascript POSTA",
+          "siteAuthor": {
+            "id": 1,
+            "name": "Carlos Vergara",
+            "username": "carlos-vergara",
+            "avatar": "",
+            "avatarImage": {
+              "alt": "Carlos Vergara",
+              "height": 240,
+              "url": "",
+              "width": 240
+            },
+            "email": "",
+            "description": "",
+            "postsNumber": 1,
+            "url": "https://cfv1984.github.io/publii-theme-sandbox/authors/carlos-vergara/",
+            "config": {}
+          },
+          "siteDomain": "https://cfv1984.github.io/publii-theme-sandbox",
+          "siteLogo": "",
+          "posts": [
+            {
+              "title": "Javascript POSTA",
+              "url": "https://cfv1984.github.io/publii-theme-sandbox/javascript-posta/",
+              "author": {
+                "id": 1,
+                "name": "Carlos Vergara",
+                "username": "carlos-vergara",
+                "avatar": "",
+                "avatarImage": {
+                  "alt": "Carlos Vergara",
+                  "height": 240,
+                  "url": "",
+                  "width": 240
+                },
+                "email": "",
+                "description": "",
+                "postsNumber": 1,
+                "url": "https://cfv1984.github.io/publii-theme-sandbox/authors/carlos-vergara/",
+                "config": {}
+              },
+              "text": "<p>Javascript POSTA es un intento de enseñar, sobre Javascript, a programar apropiadamente. </p>\n<p>Intenta aplicar nociones extraídas de Domain Driven Development, Clean Code, Javascript Allongé, ATDD y mi propia experiencia en casi dos décadas de desarrollo de aplicaciones. </p>\n<p>Lo escribí en castellano, porque quiero apuntar al hispanohablante por encima de todo, y si bien el inglés es importante para la profesión, no creo que ahí haya una dependencia, o en otras palabras, que aprender inglés sea un requerimiento para producir buen software. </p>",
+              "excerpt": "Javascript POSTA es un intento de enseñar, sobre Javascript, a programar apropiadamente. Intenta aplicar nociones extraídas de Domain Driven Development, Clean Code, Javascript Allongé, ATDD&hellip;",
+              "createdAt": 1562350453763,
+              "modifiedAt": 1562355769419,
+              "categories": [],
+              "thumbnail": false
+            }
+          ]
+        }
+      },
+      "key": 0,
+      "index": 0,
+      "first": true,
+      "last": true
+    }
+  }
+},
+            "content_html": {
+  "0": "<p>Javascript POSTA es un intento de enseñar, sobre Javascript, a programar apropiadamente. </p>\n<p>Intenta aplicar nociones extraídas de Domain Driven Development, Clean Code, Javascript Allongé, ATDD y mi propia experiencia en casi dos décadas de desarrollo de aplicaciones. </p>\n<p>Lo escribí en castellano, porque quiero apuntar al hispanohablante por encima de todo, y si bien el inglés es importante para la profesión, no creo que ahí haya una dependencia, o en otras palabras, que aprender inglés sea un requerimiento para producir buen software. </p>",
+  "1": {
+    "name": "jsonify",
+    "hash": {},
+    "data": {
+      "root": {
+        "siteName": "Javascript POSTA",
+        "siteAuthor": {
+          "id": 1,
+          "name": "Carlos Vergara",
+          "username": "carlos-vergara",
+          "avatar": "",
+          "avatarImage": {
+            "alt": "Carlos Vergara",
+            "height": 240,
+            "url": "",
+            "width": 240
+          },
+          "email": "",
+          "description": "",
+          "postsNumber": 1,
+          "url": "https://cfv1984.github.io/publii-theme-sandbox/authors/carlos-vergara/",
+          "config": {}
+        },
+        "siteDomain": "https://cfv1984.github.io/publii-theme-sandbox",
+        "siteLogo": "",
+        "posts": [
+          {
+            "title": "Javascript POSTA",
+            "url": "https://cfv1984.github.io/publii-theme-sandbox/javascript-posta/",
+            "author": {
+              "id": 1,
+              "name": "Carlos Vergara",
+              "username": "carlos-vergara",
+              "avatar": "",
+              "avatarImage": {
+                "alt": "Carlos Vergara",
+                "height": 240,
+                "url": "",
+                "width": 240
+              },
+              "email": "",
+              "description": "",
+              "postsNumber": 1,
+              "url": "https://cfv1984.github.io/publii-theme-sandbox/authors/carlos-vergara/",
+              "config": {}
+            },
+            "text": "<p>Javascript POSTA es un intento de enseñar, sobre Javascript, a programar apropiadamente. </p>\n<p>Intenta aplicar nociones extraídas de Domain Driven Development, Clean Code, Javascript Allongé, ATDD y mi propia experiencia en casi dos décadas de desarrollo de aplicaciones. </p>\n<p>Lo escribí en castellano, porque quiero apuntar al hispanohablante por encima de todo, y si bien el inglés es importante para la profesión, no creo que ahí haya una dependencia, o en otras palabras, que aprender inglés sea un requerimiento para producir buen software. </p>",
+            "excerpt": "Javascript POSTA es un intento de enseñar, sobre Javascript, a programar apropiadamente. Intenta aplicar nociones extraídas de Domain Driven Development, Clean Code, Javascript Allongé, ATDD&hellip;",
+            "createdAt": 1562350453763,
+            "modifiedAt": 1562355769419,
+            "categories": [],
+            "thumbnail": false
+          }
+        ]
+      },
+      "_parent": {
+        "root": {
+          "siteName": "Javascript POSTA",
+          "siteAuthor": {
+            "id": 1,
+            "name": "Carlos Vergara",
+            "username": "carlos-vergara",
+            "avatar": "",
+            "avatarImage": {
+              "alt": "Carlos Vergara",
+              "height": 240,
+              "url": "",
+              "width": 240
+            },
+            "email": "",
+            "description": "",
+            "postsNumber": 1,
+            "url": "https://cfv1984.github.io/publii-theme-sandbox/authors/carlos-vergara/",
+            "config": {}
+          },
+          "siteDomain": "https://cfv1984.github.io/publii-theme-sandbox",
+          "siteLogo": "",
+          "posts": [
+            {
+              "title": "Javascript POSTA",
+              "url": "https://cfv1984.github.io/publii-theme-sandbox/javascript-posta/",
+              "author": {
+                "id": 1,
+                "name": "Carlos Vergara",
+                "username": "carlos-vergara",
+                "avatar": "",
+                "avatarImage": {
+                  "alt": "Carlos Vergara",
+                  "height": 240,
+                  "url": "",
+                  "width": 240
+                },
+                "email": "",
+                "description": "",
+                "postsNumber": 1,
+                "url": "https://cfv1984.github.io/publii-theme-sandbox/authors/carlos-vergara/",
+                "config": {}
+              },
+              "text": "<p>Javascript POSTA es un intento de enseñar, sobre Javascript, a programar apropiadamente. </p>\n<p>Intenta aplicar nociones extraídas de Domain Driven Development, Clean Code, Javascript Allongé, ATDD y mi propia experiencia en casi dos décadas de desarrollo de aplicaciones. </p>\n<p>Lo escribí en castellano, porque quiero apuntar al hispanohablante por encima de todo, y si bien el inglés es importante para la profesión, no creo que ahí haya una dependencia, o en otras palabras, que aprender inglés sea un requerimiento para producir buen software. </p>",
+              "excerpt": "Javascript POSTA es un intento de enseñar, sobre Javascript, a programar apropiadamente. Intenta aplicar nociones extraídas de Domain Driven Development, Clean Code, Javascript Allongé, ATDD&hellip;",
+              "createdAt": 1562350453763,
+              "modifiedAt": 1562355769419,
+              "categories": [],
+              "thumbnail": false
+            }
+          ]
+        }
+      },
+      "key": 0,
+      "index": 0,
+      "first": true,
+      "last": true
+    }
+  }
+},
+            "author": {
+                "name": "Carlos Vergara"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-05T15:14:13-03:00",
+            "date_modified": "2019-07-05T16:42:49-03:00"
+        }
+    ]
+}

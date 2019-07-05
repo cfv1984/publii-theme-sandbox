@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Javascript POSTA</title>
+    <link href="https://cfv1984.github.io/publii-theme-sandbox/feed.xml" rel="self" />
+    <link href="https://cfv1984.github.io/publii-theme-sandbox" />
+    <updated>2019-07-05T16:50:11-03:00</updated>
+    <author>
+        <name>Carlos Vergara</name>
+    </author>
+    <id>https://cfv1984.github.io/publii-theme-sandbox</id>
+
+    <entry>
+        <title>Javascript POSTA</title>
+        <author>
+            <name>Carlos Vergara</name>
+        </author>
+        <link href="https://cfv1984.github.io/publii-theme-sandbox/javascript-posta/"/>
+        <id>https://cfv1984.github.io/publii-theme-sandbox/javascript-posta/</id>
+
+        <updated>2019-07-05T16:42:49-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Javascript POSTA es un intento de enseñar, sobre Javascript, a programar apropiadamente. Intenta aplicar nociones extraídas de Domain Driven Development, Clean Code, Javascript Allongé, ATDD&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Javascript POSTA es un intento de enseñar, sobre Javascript, a programar apropiadamente. </p>
+<p>Intenta aplicar nociones extraídas de Domain Driven Development, Clean Code, Javascript Allongé, ATDD y mi propia experiencia en casi dos décadas de desarrollo de aplicaciones. </p>
+<p>Lo escribí en castellano, porque quiero apuntar al hispanohablante por encima de todo, y si bien el inglés es importante para la profesión, no creo que ahí haya una dependencia, o en otras palabras, que aprender inglés sea un requerimiento para producir buen software. </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
